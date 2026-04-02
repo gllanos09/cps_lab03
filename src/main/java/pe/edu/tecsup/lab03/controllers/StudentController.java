@@ -2,6 +2,7 @@ package pe.edu.tecsup.lab03.controllers;
 
 public class StudentController {
     static void main() {
+        int Gabriel = 06;
 
     }
 }
